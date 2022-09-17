@@ -1,5 +1,4 @@
 #pragma once
-
 #include "functions.h"
 
 template <class T, class T2>

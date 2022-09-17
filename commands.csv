@@ -7,7 +7,7 @@ rm, "Used to remove objects such as files and directories from the file system l
 cp, "Used to copy files or group of files or directory."
 mv, "Used to move one or more files or directories from one place to another in file system like UNIX."
 ssh, "Protocol used to securely connect to a remote server/system."
-scp, "Used to copy file(s) between servers in a secure way."
+scp, "Used to copy files between servers in a secure way."
 man, "Used to display the user manual of any command that we can run on the terminal."
 g++, "Used like a compiler that runs from your command line to generate an executable file."
 gcc, "Used to compile mainly C and C++ language. It can be used to compile Objective C and Objective C++."

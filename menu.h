@@ -15,7 +15,7 @@ class Players
     int score;
 };
 
-class Menu // MENU
+class Menu
 {
 public:
 	void displayMenu();

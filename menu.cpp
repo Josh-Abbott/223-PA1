@@ -57,7 +57,7 @@ int Menu::getNums(vector<int> vec, int maxNum)
 void Menu::printRules()
 {
     cout << "==:==RULES==:==" << endl;
-    cout << "You are given the ability to select between 5-30 questions to run through at once." << endl;
+    cout << "You are given the ability to select between 5 and 30 questions to run through at once." << endl;
     cout << "Each question will a randomized Linux command that you are given 3 possible definitions to." << endl;
     cout << "For each question you get right, a single point will be added to your score." << endl;
     cout << "For each question you get wrong, a single point will be removed from your score." << endl;
