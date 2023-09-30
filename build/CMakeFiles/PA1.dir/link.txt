@@ -1,1 +1,3 @@
-/usr/bin/c++  -Wall -g CMakeFiles/PA1.dir/main.cpp.o CMakeFiles/PA1.dir/menu.cpp.o -o PA1 
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\PA1.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\PA1.dir/objects.a @CMakeFiles\PA1.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe  -Wall -g -Wl,--whole-archive CMakeFiles\PA1.dir/objects.a -Wl,--no-whole-archive -o PA1.exe -Wl,--out-implib,libPA1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\PA1.dir\linklibs.rsp

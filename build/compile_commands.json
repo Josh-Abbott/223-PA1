@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/lucar/OneDrive/Documents/WSU/Previous Semesters/Fall 2022/CPTS 223/Programming Assignments/PA1Canvas/PA1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe    -Wall -g -std=gnu++11 -o CMakeFiles\\PA1.dir\\main.cpp.obj -c \"C:\\Users\\lucar\\OneDrive\\Documents\\WSU\\Previous Semesters\\Fall 2022\\CPTS 223\\Programming Assignments\\PA1Canvas\\PA1\\main.cpp\"",
+  "file": "C:/Users/lucar/OneDrive/Documents/WSU/Previous Semesters/Fall 2022/CPTS 223/Programming Assignments/PA1Canvas/PA1/main.cpp"
+},
+{
+  "directory": "C:/Users/lucar/OneDrive/Documents/WSU/Previous Semesters/Fall 2022/CPTS 223/Programming Assignments/PA1Canvas/PA1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe    -Wall -g -std=gnu++11 -o CMakeFiles\\PA1.dir\\menu.cpp.obj -c \"C:\\Users\\lucar\\OneDrive\\Documents\\WSU\\Previous Semesters\\Fall 2022\\CPTS 223\\Programming Assignments\\PA1Canvas\\PA1\\menu.cpp\"",
+  "file": "C:/Users/lucar/OneDrive/Documents/WSU/Previous Semesters/Fall 2022/CPTS 223/Programming Assignments/PA1Canvas/PA1/menu.cpp"
+}
+]
